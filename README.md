@@ -7,7 +7,7 @@ This project is a mini-election system programmed in the C language, running in 
 - Allow voters to cast their votes
 - Display voting statistics (number of votes per candidate, voter turnout, etc.)
 # Prerequisites
-Have a C compiler installed on your system (e.g., GCC or Clang)
+Have a C editor installed on your system (e.g., CodeBlocks, VSCode)
 # Installation and Usage
 - Open the project in CodeBlocks or your preferred C editor.
 - Compile the program.
