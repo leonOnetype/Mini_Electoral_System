@@ -1,6 +1,3 @@
-# Mini_Electoral_System
-The program we have developed is a mini-electoral system programmed in the C language, running in console mode, and can be used to manage an election. This program generally provides functionalities such as voter and candidate registration, voting by voters, and displaying voting statistics.
-
 # Mini Election System
 This project is a mini-election system programmed in the C language, running in console mode. It allows for the management of the main functionalities of an election, such as the registration of voters and candidates, the voting process, and the display of voting statistics.
 
