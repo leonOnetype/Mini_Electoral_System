@@ -2,10 +2,10 @@
 This project is a mini-election system programmed in the C language, running in console mode. It allows for the management of the main functionalities of an election, such as the registration of voters and candidates, the voting process, and the display of voting statistics.
 
 # Features
-Voter registration
-Candidate registration
-Allow voters to cast their votes
-Display voting statistics (number of votes per candidate, voter turnout, etc.)
+- Voter registration
+- Candidate registration
+- Allow voters to cast their votes
+- Display voting statistics (number of votes per candidate, voter turnout, etc.)
 # Prerequisites
 Have a C compiler installed on your system (e.g., GCC or Clang)
 # Installation and Usage
